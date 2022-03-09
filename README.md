@@ -2,6 +2,12 @@
 
 A to-do list website with a clock, weather API and spotify embed. I coded this site for exercise so it's not refined, maybe I'll add stuff in the future.
 
+## Tech Stack
+
+- Typescript
+- React
+- Tailwind
+
 ## Available Scripts
 
 In the project directory, you can run:
